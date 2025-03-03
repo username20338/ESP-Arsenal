@@ -1,5 +1,4 @@
-# ESP-Arsenal
-eu sou iniciante nisso desgraaaaaaaaaaaaaaaaa
+# ESP-Arsennal
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local Camera = game:GetService("Workspace").CurrentCamera
